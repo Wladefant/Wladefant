@@ -1,5 +1,5 @@
 # Hi, I'm Wladefant 👋
-I'm a student at a mathematically profiled high school in Berlin, Germany  
+I'm a Computer student at the Technical University Munich, Germany  
 
 ### Coding
 - I'm currently writing on
@@ -7,19 +7,21 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
   - Python
   - Javascript
 - I'm currently learning
-  - android development
+  - android development (flutter, kotlin) 
 - I'm planning on learning
-  - go(lang)
+  - go(lang), c++
   
  ### ✉️ Contact
  - Email
    - wladefant@gmail.com
+- Twitter/X
+   - @wladefant
  - Discord
-   - 
+   - @wladefant (rarely there) 
 
 
 <!--
-**Pleezon/Pleezon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
