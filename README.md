@@ -1,5 +1,5 @@
 # Hi, I'm Wladefant 👋
-I'm a Computer student at the Technical University Munich, Germany  
+I'm a Computer Science Student at the Technical University Munich, Germany  
 
 ### Coding
 - I'm currently writing on
